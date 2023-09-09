@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/http//jaaja321.github.io/lux-host/static/css/main.2de3f063.css",
-    "main.js": "/http//jaaja321.github.io/lux-host/static/js/main.c2e13ba2.js",
-    "index.html": "/http//jaaja321.github.io/lux-host/index.html",
-    "main.2de3f063.css.map": "/http//jaaja321.github.io/lux-host/static/css/main.2de3f063.css.map",
-    "main.c2e13ba2.js.map": "/http//jaaja321.github.io/lux-host/static/js/main.c2e13ba2.js.map"
+    "main.css": "/lux-host/static/css/main.3cc9f77a.css",
+    "main.js": "/lux-host/static/js/main.8e25628e.js",
+    "index.html": "/lux-host/index.html",
+    "main.3cc9f77a.css.map": "/lux-host/static/css/main.3cc9f77a.css.map",
+    "main.8e25628e.js.map": "/lux-host/static/js/main.8e25628e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2de3f063.css",
-    "static/js/main.c2e13ba2.js"
+    "static/css/main.3cc9f77a.css",
+    "static/js/main.8e25628e.js"
   ]
 }
