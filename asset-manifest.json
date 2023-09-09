@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//jaaja321.github.io/luxOchki/static/css/main.2de3f063.css",
+    "main.js": "/http//jaaja321.github.io/luxOchki/static/js/main.c2e13ba2.js",
+    "index.html": "/http//jaaja321.github.io/luxOchki/index.html",
+    "main.2de3f063.css.map": "/http//jaaja321.github.io/luxOchki/static/css/main.2de3f063.css.map",
+    "main.c2e13ba2.js.map": "/http//jaaja321.github.io/luxOchki/static/js/main.c2e13ba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de3f063.css",
+    "static/js/main.c2e13ba2.js"
+  ]
+}
